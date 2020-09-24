@@ -1,5 +1,5 @@
 # reverse-shell-generator
-Web-based reverse shell generator
+Web-based reverse shell generator - All original work by [https://github.com/weibell/](https://github.com/weibell/)
 
 ### See it in action: [https://weibell.github.io/reverse-shell-generator/](https://weibell.github.io/reverse-shell-generator/)
 
